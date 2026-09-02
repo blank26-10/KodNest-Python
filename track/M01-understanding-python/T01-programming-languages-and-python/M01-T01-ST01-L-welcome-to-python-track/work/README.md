@@ -14,7 +14,7 @@ Python is easy to learn and use. It has a large community and many libraries.
 
 ## My Career Goal
 
-I want to be a developer.
+Want to be a developer.
 
 ## What I Understood Today
 
