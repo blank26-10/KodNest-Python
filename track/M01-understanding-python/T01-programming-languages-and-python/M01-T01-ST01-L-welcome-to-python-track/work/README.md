@@ -2,26 +2,27 @@
 
 ## My Name
 
-Write your name.
+Pradeep 
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+Code logic, pseudocode and problem solving
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+Python is easy to learn and use. It has a large community and many libraries.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+I want to be a developer.
 
 ## What I Understood Today
 
-Complete these sentences:
+## Programming means:
+Giving step-by-step instructions to a computer to solve problems and automate tasks.
 
-Programming means:
+## Python is:
+A high-level, interpreted, and easy-to-read programming language with simple syntax and rich ecosystem.
 
-Python is:
-
-In this track, I will learn:
+## In this track, I will learn:
+Fundamentals of Python programming, core data structures, object-oriented concepts, and hands-on problem-solving skills.
